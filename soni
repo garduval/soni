@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | RTU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_rtu.jpg/120px-Logo_rtu.jpg" group-title="ECUADOR",ECUADOR | RTU
-https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/418934.ts
 #EXTINF:-1 tvg-id="AandE Network Canada" tvg-name="TNT SPORTS  »1«" tvg-logo="https://i.postimg.cc/J0MtHDy9/TNT-Sports-2023-2.png" group-title="CHILE",TNT SPORTS  »1«
 https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/417210.ts
 #EXTINF:-1 tvg-id="AandE Network Canada" tvg-name="TNT SPORTS  »2«" tvg-logo="https://i.postimg.cc/J0MtHDy9/TNT-Sports-2023-2.png" group-title="CHILE",TNT SPORTS  »2«
@@ -49,12 +47,6 @@ https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/2367.ts
 https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/2368.ts
 #EXTINF:-1 tvg-id="UNOGUAY" tvg-name="ESPN EXTRA (STAR+)" tvg-logo="https://i.ibb.co/6FrC02b/Imagen-de-Whats-App-2024-03-29-a-las-22-29-12-b61c20d1.jpg" group-title="ECUADOR",ESPN EXTRA (STAR+)
 https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/2379.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports HN OP1" tvg-logo="http://icon.guard447.cyou/logos/LAT_centroamerica/tigo_sport.png" group-title="HONDURAS",Tigo Sports HN OP1
-https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/9211.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports HN OP2" tvg-logo="http://icon.guard447.cyou/logos/LAT_centroamerica/tigo_sport.png" group-title="HONDURAS",Tigo Sports HN OP2
-https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/82480.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports HN OP3" tvg-logo="http://icon.guard447.cyou/logos/LAT_centroamerica/tigo_sport.png" group-title="HONDURAS",Tigo Sports HN OP3
-https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/250372.ts
 #EXTINF:-1 tvg-id="ESPN Deportes" tvg-name="ESPN DEPORTES" tvg-logo="https://i.postimg.cc/tRNbSKHV/Dise-o-sin-t-tulo-9.png" group-title="DEPORTES PREMIUM",ESPN DEPORTES
 https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/591971.ts
 #EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 1 HD | AR" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122217.jpg" group-title="DEPORTES PREMIUM",ESPN 1 HD | AR
@@ -197,8 +189,6 @@ https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/592044.ts
 https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/592045.ts
 #EXTINF:-1 tvg-id="" tvg-name="PY: Noticias Paraguay HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/NoticiasPY2023.png/revision/latest/scale-to-width-down/1000?cb=20231122210419&path-prefix=es" group-title="PARAGUAY",PY: Noticias Paraguay HD
 https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/18443.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIVA" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171538.jpg" group-title="DEPORTES PERU",NATIVA
-https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/598556.ts
 #EXTINF:-1 tvg-id="" tvg-name="TUDN HD" tvg-logo="https://i.postimg.cc/Y9gcy00T/images-(11).png" group-title="MEXICO",TUDN HD
 https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/755491.ts
 #EXTINF:-1 tvg-id="" tvg-name="T-UDN" tvg-logo="https://i.postimg.cc/Y9gcy00T/images-(11).png" group-title="MEXICO",T-UDN
@@ -899,22 +889,6 @@ https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/601702.ts
 https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/601703.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK : BT Sport Extra 4 (Event Only)" tvg-logo="https://i.postimg.cc/9F8cBCqc/latest-cb-20180511111627.jpg" group-title="UK SPORTS",UK : BT Sport Extra 4 (Event Only)
 https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/601704.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL : ESPN 1 ᴴ²⁵⁶ ᴴᵉᵛᶜ HD" tvg-logo="http://vod-logo.net/photos/d65aedb8ae57ad70aaf9dcf29320d17e.png" group-title="NETHERLANDS",NL : ESPN 1 ᴴ²⁵⁶ ᴴᵉᵛᶜ HD
-https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/770273.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL : ESPN 1 ᴴᴰ⁺ HD" tvg-logo="http://51.91.105.31:57050/images/ESPN.png" group-title="NETHERLANDS",NL : ESPN 1 ᴴᴰ⁺ HD
-https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/770274.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL : ESPN 2 ᴴ²⁵⁶ ᴴᵉᵛᶜ HD" tvg-logo="http://51.91.105.31:57050/images/ESPN-2.png" group-title="NETHERLANDS",NL : ESPN 2 ᴴ²⁵⁶ ᴴᵉᵛᶜ HD
-https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/770275.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL : ESPN 2 ᴴᴰ⁺ HD" tvg-logo="https://img.listaiptvhd.live/images/EPwpUxa.png" group-title="NETHERLANDS",NL : ESPN 2 ᴴᴰ⁺ HD
-https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/770276.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL : ESPN 3 ᴴ²⁵⁶ ᴴᵉᵛᶜ HD" tvg-logo="http://51.91.105.31:57050/images/ESPN-3.png" group-title="NETHERLANDS",NL : ESPN 3 ᴴ²⁵⁶ ᴴᵉᵛᶜ HD
-https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/770277.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL : ESPN 3 ᴴᴰ⁺ HD" tvg-logo="http://51.91.105.31:57050/images/ESPN-3.png" group-title="NETHERLANDS",NL : ESPN 3 ᴴᴰ⁺ HD
-https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/770278.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL : ESPN 4 ᴴ²⁵⁶ ᴴᵉᵛᶜ HD" tvg-logo="http://51.91.105.31:57050/images/ESPN-4.png" group-title="NETHERLANDS",NL : ESPN 4 ᴴ²⁵⁶ ᴴᵉᵛᶜ HD
-https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/770279.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL : ESPN 4 ᴴᴰ⁺ HD" tvg-logo="https://img.listaiptvhd.live/images/EPwpUxa.png" group-title="NETHERLANDS",NL : ESPN 4 ᴴᴰ⁺ HD
-https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/770280.ts
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS AR" tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV SPORTS AR
 https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/69547.ts
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 AR" tvg-logo="https://i.ibb.co/fXC6w96/ds2.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV SPORTS 2 AR
@@ -933,32 +907,6 @@ https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/69568.ts
 https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/69570.ts
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV Sports Per" tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV Sports Per
 https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/151274.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA HD" tvg-logo="https://pbs.twimg.com/media/FytQLIxXgAATtYC.jpg:large" group-title="BRASIL SPORTS",ESPN EXTRA HD
-https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/195673.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN FHD" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" group-title="BRASIL SPORTS",ESPN FHD
-https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/195674.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" group-title="BRASIL SPORTS",ESPN HD
-https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/195675.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN SD" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" group-title="BRASIL SPORTS",ESPN SD
-https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/195676.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN2  SD" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" group-title="BRASIL SPORTS",ESPN2  SD
-https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/195677.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN2 FHD" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" group-title="BRASIL SPORTS",ESPN2 FHD
-https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/195678.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN2 HD" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" group-title="BRASIL SPORTS",ESPN2 HD
-https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/195679.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN3 FHD" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" group-title="BRASIL SPORTS",ESPN3 FHD
-https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/195680.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN3 HD" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" group-title="BRASIL SPORTS",ESPN3 HD
-https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/195681.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN3 SD" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" group-title="BRASIL SPORTS",ESPN3 SD
-https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/195682.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN4 FHD" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" group-title="BRASIL SPORTS",ESPN4 FHD
-https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/195683.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN4 HD" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" group-title="BRASIL SPORTS",ESPN4 HD
-https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/195684.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN4 SD" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" group-title="BRASIL SPORTS",ESPN4 SD
-https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/195685.ts
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV  | H.264 480p" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoumAcs3ZaKfduQ2tlkKl-71tT3asoAwfb2-kmTe8FKA&s" group-title="BRASIL SPORTS",SPORTV  | H.264 480p
 https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/195686.ts
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV 2  | H.264 480p" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoumAcs3ZaKfduQ2tlkKl-71tT3asoAwfb2-kmTe8FKA&s" group-title="BRASIL SPORTS",SPORTV 2  | H.264 480p
@@ -1311,4 +1259,3 @@ https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/750205.ts
 https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/750206.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ GOL HD" tvg-logo="https://i.postimg.cc/YCsS6QV5/GOL.png" group-title="FUTBOL ESPAÑA",M+ GOL HD
 https://latinoustv.net/live/TinoTv2026/6YJSDduQ9c/752164.ts
-
